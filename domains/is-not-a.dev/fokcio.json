@@ -1,0 +1,16 @@
+{
+  "description": "Personal website of Fokcio hosted on GitHub Pages.",
+  "domain": "is-not-a.dev",
+  "subdomain": "fokcio",
+
+  "owner": {
+    "repo": "https://github.com/fokcio/fokcio.github.io",
+    "email": "kontakt.fokcio@proton.me"
+  },
+
+  "record": {
+    "CNAME": "fokcio.github.io"
+  },
+
+  "proxied": false
+}
